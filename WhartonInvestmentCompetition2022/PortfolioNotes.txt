@@ -1,0 +1,26 @@
+Williams Sonoma; Home Depot
+Regeneron; other healthcare
+General Mills; Sprouts Farmers Market; Procter and Gamble
+Arista Networks; Nvidia
+Google
+Deere; Catapiller
+Jp Morgan??? (need to find a stock that benefits in this macro environment)
+
+
+Our Portfolio
+
+**beta in parentheses
+
+Technology - 15%; 9% nvidia (1.69), 6% arista (1.33)
+Healthcare - 25%; 10% regn (0.28) ; 6% gilead (0.33); 9% genmab (0.62)???
+Financials - 5%; JPM (1.09)???
+Communication - 10%; Google (1.09)
+Consumer Discretionary - 10%; 5% Williams-Sonaca (1.58), 5% Home Depot (0.99)
+Industrials - 15%; 8% John Deere (1.06), 7% Catapillar (1.01)
+Consumer Staples - 15%; 7% General Mills (0.32), 8% Sprouts Farmers Market (0.40)
+Real EState - 0%
+Utilities - 0% 
+Materials - 0%
+Energy - 0%
+
+0.09*1.69+0.06*1.33+0.1*0.28+0.06*0.33+0.09*0.62+0.05*1.09+0.1*1.09+0.05*1.58+0.05*0.99+0.08*1.06+0.07*1.01+0.07*0.32+0.08*0.40
